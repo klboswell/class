@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
-#Author - Vijay Nagarajan PhD
-#print a string - hello vijay
-print "Hello Raj\n";
+#Author - Kristin Boswell PhD
+#print a string - hello me
+print "Hello Kristin\n";
 
 
 
